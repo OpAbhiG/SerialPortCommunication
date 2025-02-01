@@ -1,9 +1,8 @@
 # USB Serial Device Integration for Bharat TeleClinic
 
-![Bharat TeleClinic](![btlogowhite](https://github.com/user-attachments/assets/9af6e0e1-0b3e-4468-8b6b-55455335c5ff)) <!-- Add a relevant image or logo -->
+![Bharat TeleClinic](https://github.com/user-attachments/assets/cce95b08-6319-4652-913e-bcea3e510b5f)
 
-![Device](![image](https://github.com/user-attachments/assets/1cc002f7-3d30-4487-8e88-2c98dc46fd3a)) <!-- Add a relevant image or logo -->
-![image](https://github.com/user-attachments/assets/0b146d0f-cc70-4920-a876-6f069181b8ee)
+![Device](https://github.com/user-attachments/assets/0b146d0f-cc70-4920-a876-6f069181b8ee)
 
 ## 📌 Overview
 This project is a **Flutter-based application** that integrates with a **USB serial device** to automatically read and display patient vitals such as:
