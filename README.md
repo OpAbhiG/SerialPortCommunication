@@ -60,7 +60,8 @@ dependencies:
 ## 🖥️ Screenshots
 | USB Connection | Live Vitals |
 |---------------|------------|
-| ![USB Connect](https://your-image-url.com/usb.png) | ![Vitals Display](https://your-image-url.com/vitals.png) |
+| ![USB Connect](![Uploading WhatsApp Image 2025-02-02 at 00.14.30_511d112b.jpg…]()) | ![Vitals Display](https://your-image-url.com/vitals.png) |
+
 
 ## 👨‍💻 Contribution
 Want to improve this project? Contributions are welcome!
